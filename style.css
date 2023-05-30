@@ -22,7 +22,8 @@ p {
 }
 
 .boxthing {
-    width: 400px;
+    width: auto;
+    max-width: 400px;
     height: auto;
     margin: auto;
     margin-top: 20px;
