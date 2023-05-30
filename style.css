@@ -17,7 +17,8 @@ p {
 .footerp {
     font-size: 12px;
     color: rgb(117, 114, 114);
-    line-height: 6px;
+    line-height: 15px;
+    margin-bottom: 25px;
 }
 
 .boxthing {
