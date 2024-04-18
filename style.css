@@ -107,11 +107,13 @@ hr {
     transition: 0.3s;
     filter: brightness(150%);
 }
+
 .streambutton {
     background-image: url("images/tngcover.png");
     color: white;
     background-attachment: fixed;
     mix-blend-mode:difference;
+
 }
 .subbutton {
     background-image: url("images/header.jpg");
